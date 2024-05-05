@@ -10,7 +10,7 @@ import Infinity from '../assets/Infinity.png'
 const Clients = () => {
   return (
     <>
-    <div className='grid gap-4 text-center items-center justify-center py-8'>
+    <div className='grid gap-2 text-center items-center justify-center py-8'>
         <p className='text-[#4D4D4D] text-4xl font-semibold'>Our Clients</p>
         <p className='text-[#717171]'>We have been working with some Fortune 500+ clients</p>
     </div>
