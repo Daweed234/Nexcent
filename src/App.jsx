@@ -4,8 +4,9 @@ import Hero from './Components/Hero'
 import Clients from './Components/Clients'
 import Manage from './Components/Manage'
 import Spending from './Components/Spending'
+import Local from './Components/Local'
 
-function App() {
+const App = () => {
  
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
     <Clients />
     <Manage />
     <Spending />
+    <Local />
     </>
   )
 }
