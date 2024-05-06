@@ -5,6 +5,7 @@ import Clients from './Components/Clients'
 import Manage from './Components/Manage'
 import Spending from './Components/Spending'
 import Local from './Components/Local'
+import Footer from './Components/Footer'
 
 const App = () => {
  
@@ -16,6 +17,7 @@ const App = () => {
     <Manage />
     <Spending />
     <Local />
+    <Footer />
     </>
   )
 }
