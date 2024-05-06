@@ -6,6 +6,7 @@ import Manage from './Components/Manage'
 import Spending from './Components/Spending'
 import Local from './Components/Local'
 import Footer from './Components/Footer'
+import Tesla from './Components/Tesla'
 
 const App = () => {
  
@@ -17,6 +18,7 @@ const App = () => {
     <Manage />
     <Spending />
     <Local />
+    <Tesla />
     <Footer />
     </>
   )
