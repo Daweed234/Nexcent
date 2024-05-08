@@ -1,6 +1,6 @@
 import './App.css'
 import Navbar from './Components/Navbar'
-import Hero from './Components/Hero'
+import Hero from './Components/Hero/Hero'
 import Clients from './Components/Clients/Clients'
 import Manage from './Components/Manage'
 import Spending from './Components/Spending'
