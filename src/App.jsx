@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './Components/Navbar'
+import Navbar from './Components/Navbar/Navbar'
 import Hero from './Components/Hero/Hero'
 import Clients from './Components/Clients/Clients'
 import Manage from './Components/Manage'
