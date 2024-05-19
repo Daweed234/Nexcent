@@ -12,7 +12,7 @@ import { FaYoutube } from "react-icons/fa";
 const Footer = () => {
   return (
     <>
-      <div className="text-center py-10">
+      <div className="text-center py-10 md:bg-red-400,flex-col">
         <p className="text-[#263238] font-semibold text-6xl">
           Pellentesque suscipit <br />
           fringilla libero eu.
