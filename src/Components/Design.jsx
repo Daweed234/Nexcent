@@ -4,7 +4,7 @@ import Unseen from '../assets/Unseen.png'
 const Spending = () => {
   return (
     <>
-    <div className='flex justify-center items-center py-14 gap-14'>
+    <div className='md:flex-col md:px-5 flex justify-center items-center py-14 gap-14'>
         <div>
             <img className='size-96' src={Unseen} alt="" />
         </div>

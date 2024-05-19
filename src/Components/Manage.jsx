@@ -6,14 +6,14 @@ import Club from "../assets/Club.png";
 const Manage = () => {
     return (
         <>
-            <div>
+            <div className="">
                 <div className=" grid gap-2 justify-center items-center text-center py-14">
                     <p className="text-[#4D4D4D] text-3xl font-semibold ">
                         Manage your entire community <br /> in a single system
                     </p>
                     <p className="text-[#717171]">Who is Nextcent suitable for?</p>
                 </div>
-                <div className="flex md:flex-col justify-center gap-20">
+                <div className="flex md:px-5 md:flex-col justify-center gap-20">
                     <div className="flex shadow-md px-6 py-9 flex-col items-center">
                         <img className=" text-center items-center" src={Member} alt="" />
                         <h1 className=" text-[#4D4D4D] text-lg font-semibold">

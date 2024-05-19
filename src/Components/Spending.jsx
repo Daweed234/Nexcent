@@ -4,7 +4,7 @@
   const Spending = () => {
     return (
       <>
-      <div className='flex justify-center items-center py-14'>
+      <div className='flex md:flex-col md:px-5 justify-center items-center py-14'>
           <div>
               <img className='size-96' src={Unseen} alt="" />
           </div>
